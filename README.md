@@ -1,2 +1,3 @@
-# otimizacao-linear
-Algoritmos estudados em Otimização Linear do MMQ
+# Otimização Linear
+
+Algoritmos estudados em Otimização Linear do MMQ-UFC
