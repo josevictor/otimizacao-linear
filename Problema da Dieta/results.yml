@@ -1,0 +1,49 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 3.125
+  Upper bound: 3.125
+  Number of objectives: 1
+  Number of constraints: 4
+  Number of variables: 5
+  Number of nonzeros: 4
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: -1.0
+  System time: 0.0
+  Wallclock time: 0.0
+  Termination condition: optimal
+  Termination message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: None
+      Number of created subproblems: None
+    Black box: 
+      Number of iterations: 1
+  Error rc: 0
+  Time: 0.044367313385009766
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: None
+  Objective:
+    profit:
+      Value: 3.125
+  Variable:
+    x4:
+      Value: 3.125
+  Constraint: No values
